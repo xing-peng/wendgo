@@ -1,0 +1,117 @@
+.banner h1{
+	margin:0 auto;
+	text-align:center ;
+	 font-family: '微软雅黑';
+    font-weight: bold;
+    padding-top:60px ;
+}
+
+.banner .main{
+	width: 1200px;
+}
+.banner  h1{
+	margin-bottom: 50px;
+}  
+
+.banner .main ul{
+	float:left ;
+	
+}
+.banner .main ul li{
+	width: 345px;
+	font-size:12px ;
+	color:#a6a6a6 ;
+	list-style-type: none;
+	padding-left:180px ;
+}
+.banner .main ul p{
+	width: 345px;
+	font-size:12px ;
+	color:#a6a6a6 ;
+	padding-left:180px ;
+}
+
+
+.banner .main .forms{
+	float:left ;
+	margin-left: 270px;
+}
+
+.banner .main .forms p{
+	font-size:12px ;
+	color: #c6c6c6;
+	margin: 0;
+}
+
+.banner  .ditu{
+	width: 80%;
+	padding-left:150px ;
+	padding-top:50px ;
+}
+
+.banner .weibu{
+	width: 100%;height: 200px;
+	background-color: #f7f7f7;
+	padding-left:150px ;
+	margin-top:50px ;
+	
+}
+.banner .weibu .img3{
+	width: 195px;
+	margin-top: 60px;
+}
+.banner .weibu .hz1{
+	float:left ;
+}
+
+.banner .weibu .hz1 p{
+	font-size: 14px;
+	color: #888888;
+}
+
+.banner .weibu .hz1 span{
+	font-size: 16px;
+	color:#888888 ;
+}
+
+
+.banner .weibu .hz2{
+	float:left ;
+	margin-top: 60px;
+}
+
+.banner .weibu .hz2 a{
+	color:#888888 ;
+	margin-left:250px ;
+}
+
+.banner .weibu .hz2 .image1{
+	width: 26px;
+}
+.banner .weibu .hz2 .image2{
+	width:26px;
+}
+.banner .weibu .hz2 .image3{
+	width: 26px;
+}
+.banner .weibu .hz3{
+	float:left ;
+}
+.banner .weibu .hz3 .image4{
+	width: 110px;
+	padding-left:200px ;
+	padding-top: 50px;
+}
+.banner .dibu{
+	width: 100%; height: 90px;
+	background-color: rgba(0,0,0,.4);
+	overflow: hidden;
+}
+.banner .dibu > p{
+    color: #666;
+    font-size: 14px;
+    font-family: '微软雅黑';
+    text-align: center;
+    line-height: 18px;
+    
+}
